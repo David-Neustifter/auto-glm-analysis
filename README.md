@@ -84,24 +84,7 @@ For each decile we compute:
 
 This helps assess pricing accuracy and identify where the model provides meaningful differentiation.
 
-## 🗂 5. Repository Structure
-``` python
-auto-insurance-glm-analysis/
-│
-├── frequency_model.py
-├── severity_model.py
-├── model_diagnostics.py
-├── decile_charts.py
-├── glm_auto_notebook.ipynb      # optional combined notebook
-├── requirements.txt
-└── README.md
-```
-Optional additions:
-``` python
-/plots/                # example output charts  
-/data/                 # anonymized or synthetic dataset
-``` 
-## 🛠 6. Requirements
+## 🛠 5. Requirements
 
 Install dependencies:
 ``` python
@@ -114,7 +97,7 @@ Major packages:
 * matplotlib
 * seaborn (optional)
 
-## ▶ 7. Running the Project
+## ▶ 6. Running the Project
 Option A — Notebook
 ``` python
 jupyter notebook glm_auto_notebook.ipynb
@@ -125,7 +108,7 @@ python frequency_model.py
 python severity_model.py
 python decile_charts.py
 ```
-## 🔗 8. Connect & Feedback
+## 🔗 7. Connect & Feedback
 
 If you have feedback, questions, or want to discuss GLMs, actuarial methods, Tweedie distributions, or insurance analytics—feel free to reach out!
 
