@@ -97,26 +97,4 @@ Major packages:
 * matplotlib
 * seaborn (optional)
 
-## ▶ 6. Running the Project
-Option A — Notebook
-``` python
-jupyter notebook glm_auto_notebook.ipynb
-```
-Option B — Run Scripts Directly
-``` python
-python frequency_model.py
-python severity_model.py
-python decile_charts.py
-```
-## 🔗 7. Connect & Feedback
-
-If you have feedback, questions, or want to discuss GLMs, actuarial methods, Tweedie distributions, or insurance analytics—feel free to reach out!
-
-I can also help you:
-
-* Add your name + LinkedIn badge
-* Insert example charts
-* Write a more formal “Actuarial Case Study”
-* Expand this into a full portfolio project
-
-Just tell me!
+## 6. Analysis
