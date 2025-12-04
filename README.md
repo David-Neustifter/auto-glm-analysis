@@ -48,12 +48,6 @@ The detailed modeling process—including step-by-step variable selection, p-val
 
 ## ☑️ 6. Requirements
 
-Use the following command to install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Packages used include pandas, numpy, statsmodels, matplotlib, and seaborn.
 
 ## 📖 7. What I Learned
