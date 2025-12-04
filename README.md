@@ -44,7 +44,7 @@ These tools assess model fit, segmentation strength, and prediction accuracy.
 
 The detailed modeling process—including step-by-step variable selection, p-value filtering, AIC comparison, diagnostic interpretation, and full visual results—is available here:
 
-👉 **See full in-depth analysis:** `analysis_full.md`
+👉 **See full in-depth analysis:** `full_analysis.ipynb`
 
 ## ☑️ 6. Requirements
 
